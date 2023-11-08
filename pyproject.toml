@@ -1,0 +1,4 @@
+# Required for a src layout
+# See https://docs.pytest.org/en/7.4.x/explanation/goodpractices.html#choosing-a-test-layout-import-rules
+[tool.pytest.ini_options]
+pythonpath = "src"
